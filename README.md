@@ -1,6 +1,6 @@
 Hospitality Revenue Dashboard - AtliQ Grands
-Problem Statement
-AtliQ Grands is a luxury hotel chain that owns multiple five-star hotels across India. With a legacy spanning 20 years, the company has faced increasing pressure in the competitive hospitality industry. Strategic moves from competitors, coupled with ineffective decision-making at the management level, have caused AtliQ Grands to lose market share and revenue, especially in the luxury and business hotel categories.
+
+Problem Statement: AtliQ Grands is a luxury hotel chain that owns multiple five-star hotels across India. With a legacy spanning 20 years, the company has faced increasing pressure in the competitive hospitality industry. Strategic moves from competitors, coupled with ineffective decision-making at the management level, have caused AtliQ Grands to lose market share and revenue, especially in the luxury and business hotel categories.
 
 To reverse this trend and regain their competitive position, the Managing Director of AtliQ Grands has made the strategic decision to incorporate Business and Data Intelligence into the company's decision-making process. However, the organization currently lacks an in-house data analytics team to provide insights and recommendations.
 
