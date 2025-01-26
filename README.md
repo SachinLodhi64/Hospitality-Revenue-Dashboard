@@ -69,6 +69,6 @@ Customer Segmentation
 Breakdown of customer types (Business vs. Leisure) based on booking data.
 Here is the screenshot of the dashboard design:
 
-![Dashboard Screenshot](https://example.com/screenshot.png)
+<img src="https://github.com/SachinLodhi64/Hospitality-Revenue-Dashboard/blob/main/Image/Screenshot%202025-01-26%20184819.png" alt="Data Entry Form" width="1000" height= "500">
 
 Sachin Lodhi
